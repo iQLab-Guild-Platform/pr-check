@@ -1,2 +1,2 @@
 # pr-check
-クエスト応募時に選考課題として「GitHub の Pull Request」ga 
+ギルドプラットフォーム上におけるソフトウエア開発系クエストの共通課題「GitHub の Pull Request」の提出先
